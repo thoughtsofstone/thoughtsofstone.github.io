@@ -10,7 +10,7 @@
 <channel>
 	<title>wokeism &#8211; Thoughts of Stone</title>
 	<atom:link href="https://thoughtsofstone.github.io/category/wokeism/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io/</link>
+	<link>https://thoughtsofstone.github.io</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Sun, 09 Jan 2022 05:44:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.5</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>wokeism &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io/</link>
+	<link>https://thoughtsofstone.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
