@@ -5,12 +5,15 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>blacks &#8211; Thoughts of Stone</title>
 	<atom:link href="https://thoughtsofstone.github.io/category/blacks/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Thu, 02 Dec 2021 06:42:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,11 +26,11 @@
 <image>
 	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>blacks &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
 		<title>AN ABANDONED AND MALIGNANT HEART</title>
 		<link>https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/</link>
 		
@@ -39,7 +42,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=284</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=284</guid>
 
 					<description><![CDATA[Thoughts on another miscarriage of justice in the broken USA &#160; An unpopular cause I feel compelled to stick up for today is the cause of Travis McMichael, his father Gregory McMichael, and their neighbor William “Roddie” Bryan, all of Brunswick, Georgia, USA, who were recently found guilty of murdering Ahmaud Arbery. Rightly or wrongly, &#8230; <a href="https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/" class="more-link">Continue reading<span class="screen-reader-text"> "AN ABANDONED AND MALIGNANT HEART"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Thoughts on another miscarriage of justice in the broken USA</em></p>
@@ -144,7 +147,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
 		<item>
 		<title>THE OTHER N-WORD</title>
 		<link>https://thoughtsofstone.github.io/the-other-n-word/</link>
@@ -156,7 +159,7 @@
 		<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[human ecology]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=212</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=212</guid>
 
 					<description><![CDATA[Who&#8217;s afraid of black nationalism? &#160; America’s leftist elites regard white American nationalism as their principal ideological adversary. But they have another adversary that is often overlooked: black American nationalism. Black American nationalism is very easy to overlook, here in the third decade of the new millennium. Although it has had its day in the &#8230; <a href="https://thoughtsofstone.github.io/the-other-n-word/" class="more-link">Continue reading<span class="screen-reader-text"> "THE OTHER N-WORD"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Who&#8217;s afraid of black nationalism?</em></p>
@@ -188,6 +191,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">212</post-id>	</item>
 	</channel>
 </rss>

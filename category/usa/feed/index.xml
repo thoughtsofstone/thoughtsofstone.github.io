@@ -5,14 +5,17 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>USA &#8211; Thoughts of Stone</title>
 	<atom:link href="https://thoughtsofstone.github.io/category/usa/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<description>short essays, usually about humans</description>
-	<lastBuildDate>Sat, 29 Jan 2022 21:04:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 Jan 2022 22:10:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,11 +26,11 @@
 <image>
 	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>USA &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
 		<title>AGGRESSORS AND ALLIANCES</title>
 		<link>https://thoughtsofstone.github.io/aggressors-and-alliances/</link>
 		
@@ -36,7 +39,7 @@
 				<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[Russia]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=408</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=408</guid>
 
 					<description><![CDATA[No man is an island. This short essay was prompted by the debate surrounding the ongoing Russian threat to invade Ukraine. But it is really a more general argument about state-vs.-state conflicts—even human-vs.-human conflicts. My train of thought here was first tugged into motion when I read some of the remarks by Twitter nomenklatura, to &#8230; <a href="https://thoughtsofstone.github.io/aggressors-and-alliances/" class="more-link">Continue reading<span class="screen-reader-text"> "AGGRESSORS AND ALLIANCES"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>No man is an island.</em></p>
@@ -79,7 +82,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">408</post-id>	</item>
 		<item>
 		<title>THE LAW EMPINKENED</title>
 		<link>https://thoughtsofstone.github.io/the-law-empinkened/</link>
@@ -91,7 +94,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=385</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=385</guid>
 
 					<description><![CDATA[Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system. &#160; Every day, on Twitter and a thousand other media and social-media forums, Americans of a “conservative” or “right-wing” persuasion bemoan and lament the civilizational destruction caused by the crazed, bureaucrat-and-brownshirt armies of wokeness. I bemoan and lament with &#8230; <a href="https://thoughtsofstone.github.io/the-law-empinkened/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAW EMPINKENED"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system.</em></p>
@@ -128,7 +131,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">385</post-id>	</item>
 		<item>
 		<title>SMASH THE FOUR OLDS!</title>
 		<link>https://thoughtsofstone.github.io/smash-the-four-olds/</link>
@@ -142,7 +145,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=362</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=362</guid>
 
 					<description><![CDATA[Four roots of American degeneracy &#160; Americans who watch with dismay the erasure of various symbols of their history and traditions—statues of Robert E. Lee, Theodore Roosevelt, etc.—might take comfort from certain facts about the Chinese Cultural Revolution, which occurred during 1966-76. The CCR was similar in character but vastly greater in its extremism than &#8230; <a href="https://thoughtsofstone.github.io/smash-the-four-olds/" class="more-link">Continue reading<span class="screen-reader-text"> "SMASH THE FOUR OLDS!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Four roots of American degeneracy</em></p>
@@ -196,7 +199,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
 		<item>
 		<title>WE NEED TO TALK ABOUT WOMEN</title>
 		<link>https://thoughtsofstone.github.io/we-need-to-talk-about-women/</link>
@@ -208,7 +211,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=331</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=331</guid>
 
 					<description><![CDATA[Once more unto the breach, dear friends. I’ve written about women and their cultural/political ascendancy so much in recent years, especially the last three, that I worry about sounding like the proverbial broken record if I write any more. But it seems to me that as this idea is accepted more widely—including by commentators who &#8230; <a href="https://thoughtsofstone.github.io/we-need-to-talk-about-women/" class="more-link">Continue reading<span class="screen-reader-text"> "WE NEED TO TALK ABOUT WOMEN"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Once more unto the breach, dear friends.</em></p>
@@ -281,7 +284,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">331</post-id>	</item>
 		<item>
 		<title>AN ABANDONED AND MALIGNANT HEART</title>
 		<link>https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/</link>
@@ -294,7 +297,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=284</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=284</guid>
 
 					<description><![CDATA[Thoughts on another miscarriage of justice in the broken USA &#160; An unpopular cause I feel compelled to stick up for today is the cause of Travis McMichael, his father Gregory McMichael, and their neighbor William “Roddie” Bryan, all of Brunswick, Georgia, USA, who were recently found guilty of murdering Ahmaud Arbery. Rightly or wrongly, &#8230; <a href="https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/" class="more-link">Continue reading<span class="screen-reader-text"> "AN ABANDONED AND MALIGNANT HEART"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Thoughts on another miscarriage of justice in the broken USA</em></p>
@@ -399,7 +402,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
 		<item>
 		<title>WHY YOU CAN’T HAVE NICE THINGS</title>
 		<link>https://thoughtsofstone.github.io/why-you-cant-have-nice-things/</link>
@@ -411,7 +414,7 @@
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=240</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=240</guid>
 
 					<description><![CDATA[You don’t want them badly enough &#160; You want your own decent-sized, reasonably priced house, with a yard big enough for the kids to play, and a bit of space at the back for a garden, or maybe even a pool. You want a neighborhood where the houses are built in a pretty vernacular style, &#8230; <a href="https://thoughtsofstone.github.io/why-you-cant-have-nice-things/" class="more-link">Continue reading<span class="screen-reader-text"> "WHY YOU CAN’T HAVE NICE THINGS"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>You don’t want them badly enough</em></p>
@@ -449,7 +452,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
 		<item>
 		<title>THE OTHER N-WORD</title>
 		<link>https://thoughtsofstone.github.io/the-other-n-word/</link>
@@ -461,7 +464,7 @@
 		<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[human ecology]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=212</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=212</guid>
 
 					<description><![CDATA[Who&#8217;s afraid of black nationalism? &#160; America’s leftist elites regard white American nationalism as their principal ideological adversary. But they have another adversary that is often overlooked: black American nationalism. Black American nationalism is very easy to overlook, here in the third decade of the new millennium. Although it has had its day in the &#8230; <a href="https://thoughtsofstone.github.io/the-other-n-word/" class="more-link">Continue reading<span class="screen-reader-text"> "THE OTHER N-WORD"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Who&#8217;s afraid of black nationalism?</em></p>
@@ -493,7 +496,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">212</post-id>	</item>
 		<item>
 		<title>THE AMERICAN WAY OF SUBMISSION</title>
 		<link>https://thoughtsofstone.github.io/the-american-way-of-submission/</link>
@@ -504,7 +507,7 @@
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=113</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=113</guid>
 
 					<description><![CDATA[Americans&#8217; conspiracy theories are blue pills Why are Americans on the political Right so drawn to conspiracy theories, from the chemtrails lore and QAnon to the conviction that COVID-19 vaccines are harmful? It’s hard to say anything with certainty about the causes of social trends, societies not being very amenable to the types of experiments &#8230; <a href="https://thoughtsofstone.github.io/the-american-way-of-submission/" class="more-link">Continue reading<span class="screen-reader-text"> "THE AMERICAN WAY OF SUBMISSION"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Americans&#8217; conspiracy theories are blue pills</em></p>
@@ -543,7 +546,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">113</post-id>	</item>
 		<item>
 		<title>SOME REALITIES OF &#8220;PEOPLE POWER&#8221;</title>
 		<link>https://thoughtsofstone.github.io/some-realities-of-people-power/</link>
@@ -553,7 +556,7 @@
 				<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=98</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=98</guid>
 
 					<description><![CDATA[Stray thoughts on a Red State rebellion. &#160; Almost exactly twenty years ago, on the other side of the world from the USA, the elites and middle classes of the Philippines, with low-key but ample international support, overthrew their country’s elected president, Joseph Estrada, in what was later called a “constitutional coup.” Estrada was in &#8230; <a href="https://thoughtsofstone.github.io/some-realities-of-people-power/" class="more-link">Continue reading<span class="screen-reader-text"> "SOME REALITIES OF &#8220;PEOPLE POWER&#8221;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Stray thoughts on a Red State rebellion.</em></p>
@@ -592,6 +595,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
 	</channel>
 </rss>

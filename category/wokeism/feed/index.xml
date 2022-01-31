@@ -5,12 +5,15 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>wokeism &#8211; Thoughts of Stone</title>
 	<atom:link href="https://thoughtsofstone.github.io/category/wokeism/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Sun, 09 Jan 2022 05:44:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,11 +26,11 @@
 <image>
 	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>wokeism &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
 		<title>THE LAW EMPINKENED</title>
 		<link>https://thoughtsofstone.github.io/the-law-empinkened/</link>
 		
@@ -38,7 +41,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=385</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=385</guid>
 
 					<description><![CDATA[Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system. &#160; Every day, on Twitter and a thousand other media and social-media forums, Americans of a “conservative” or “right-wing” persuasion bemoan and lament the civilizational destruction caused by the crazed, bureaucrat-and-brownshirt armies of wokeness. I bemoan and lament with &#8230; <a href="https://thoughtsofstone.github.io/the-law-empinkened/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAW EMPINKENED"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system.</em></p>
@@ -75,7 +78,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">385</post-id>	</item>
 		<item>
 		<title>SMASH THE FOUR OLDS!</title>
 		<link>https://thoughtsofstone.github.io/smash-the-four-olds/</link>
@@ -89,7 +92,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=362</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=362</guid>
 
 					<description><![CDATA[Four roots of American degeneracy &#160; Americans who watch with dismay the erasure of various symbols of their history and traditions—statues of Robert E. Lee, Theodore Roosevelt, etc.—might take comfort from certain facts about the Chinese Cultural Revolution, which occurred during 1966-76. The CCR was similar in character but vastly greater in its extremism than &#8230; <a href="https://thoughtsofstone.github.io/smash-the-four-olds/" class="more-link">Continue reading<span class="screen-reader-text"> "SMASH THE FOUR OLDS!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Four roots of American degeneracy</em></p>
@@ -143,7 +146,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
 		<item>
 		<title>CULTURAL FEMINIZATION: A BIBLIOGRAPHY</title>
 		<link>https://thoughtsofstone.github.io/cultural-feminization-a-bibliography/</link>
@@ -152,7 +155,7 @@
 		<pubDate>Tue, 14 Dec 2021 06:29:13 +0000</pubDate>
 				<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?page_id=347</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?page_id=347</guid>
 
 					<description><![CDATA[An incomplete list, but maybe useful. The idea that women, on average compared to men, think differently, behave differently, and vote differently, is not a new one. What I think has some originality, though—certainly it seems to have been too hot, as recently as a few months ago, for any MSM or MSM-adjacent editor to &#8230; <a href="https://thoughtsofstone.github.io/cultural-feminization-a-bibliography/" class="more-link">Continue reading<span class="screen-reader-text"> "CULTURAL FEMINIZATION: A BIBLIOGRAPHY"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>An incomplete list, but maybe useful.</em></p>
@@ -199,7 +202,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">347</post-id>	</item>
 		<item>
 		<title>WE NEED TO TALK ABOUT WOMEN</title>
 		<link>https://thoughtsofstone.github.io/we-need-to-talk-about-women/</link>
@@ -211,7 +214,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=331</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=331</guid>
 
 					<description><![CDATA[Once more unto the breach, dear friends. I’ve written about women and their cultural/political ascendancy so much in recent years, especially the last three, that I worry about sounding like the proverbial broken record if I write any more. But it seems to me that as this idea is accepted more widely—including by commentators who &#8230; <a href="https://thoughtsofstone.github.io/we-need-to-talk-about-women/" class="more-link">Continue reading<span class="screen-reader-text"> "WE NEED TO TALK ABOUT WOMEN"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Once more unto the breach, dear friends.</em></p>
@@ -284,7 +287,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">331</post-id>	</item>
 		<item>
 		<title>AN ABANDONED AND MALIGNANT HEART</title>
 		<link>https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/</link>
@@ -297,7 +300,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=284</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=284</guid>
 
 					<description><![CDATA[Thoughts on another miscarriage of justice in the broken USA &#160; An unpopular cause I feel compelled to stick up for today is the cause of Travis McMichael, his father Gregory McMichael, and their neighbor William “Roddie” Bryan, all of Brunswick, Georgia, USA, who were recently found guilty of murdering Ahmaud Arbery. Rightly or wrongly, &#8230; <a href="https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/" class="more-link">Continue reading<span class="screen-reader-text"> "AN ABANDONED AND MALIGNANT HEART"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Thoughts on another miscarriage of justice in the broken USA</em></p>
@@ -402,6 +405,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
 	</channel>
 </rss>

@@ -5,12 +5,15 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>revolution &#8211; Thoughts of Stone</title>
 	<atom:link href="https://thoughtsofstone.github.io/category/revolution/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Thu, 23 Sep 2021 22:27:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,11 +26,11 @@
 <image>
 	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>revolution &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
 		<title>WHY YOU CAN’T HAVE NICE THINGS</title>
 		<link>https://thoughtsofstone.github.io/why-you-cant-have-nice-things/</link>
 		
@@ -38,7 +41,7 @@
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=240</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=240</guid>
 
 					<description><![CDATA[You don’t want them badly enough &#160; You want your own decent-sized, reasonably priced house, with a yard big enough for the kids to play, and a bit of space at the back for a garden, or maybe even a pool. You want a neighborhood where the houses are built in a pretty vernacular style, &#8230; <a href="https://thoughtsofstone.github.io/why-you-cant-have-nice-things/" class="more-link">Continue reading<span class="screen-reader-text"> "WHY YOU CAN’T HAVE NICE THINGS"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>You don’t want them badly enough</em></p>
@@ -76,7 +79,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
 		<item>
 		<title>THE AMERICAN WAY OF SUBMISSION</title>
 		<link>https://thoughtsofstone.github.io/the-american-way-of-submission/</link>
@@ -87,7 +90,7 @@
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=113</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=113</guid>
 
 					<description><![CDATA[Americans&#8217; conspiracy theories are blue pills Why are Americans on the political Right so drawn to conspiracy theories, from the chemtrails lore and QAnon to the conviction that COVID-19 vaccines are harmful? It’s hard to say anything with certainty about the causes of social trends, societies not being very amenable to the types of experiments &#8230; <a href="https://thoughtsofstone.github.io/the-american-way-of-submission/" class="more-link">Continue reading<span class="screen-reader-text"> "THE AMERICAN WAY OF SUBMISSION"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Americans&#8217; conspiracy theories are blue pills</em></p>
@@ -126,7 +129,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">113</post-id>	</item>
 		<item>
 		<title>SOME REALITIES OF &#8220;PEOPLE POWER&#8221;</title>
 		<link>https://thoughtsofstone.github.io/some-realities-of-people-power/</link>
@@ -136,7 +139,7 @@
 				<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=98</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=98</guid>
 
 					<description><![CDATA[Stray thoughts on a Red State rebellion. &#160; Almost exactly twenty years ago, on the other side of the world from the USA, the elites and middle classes of the Philippines, with low-key but ample international support, overthrew their country’s elected president, Joseph Estrada, in what was later called a “constitutional coup.” Estrada was in &#8230; <a href="https://thoughtsofstone.github.io/some-realities-of-people-power/" class="more-link">Continue reading<span class="screen-reader-text"> "SOME REALITIES OF &#8220;PEOPLE POWER&#8221;"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Stray thoughts on a Red State rebellion.</em></p>
@@ -175,6 +178,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
 	</channel>
 </rss>

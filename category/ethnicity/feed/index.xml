@@ -5,12 +5,15 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>ethnicity &#8211; Thoughts of Stone</title>
 	<atom:link href="https://thoughtsofstone.github.io/category/ethnicity/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Sat, 01 Jan 2022 22:26:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,11 +26,11 @@
 <image>
 	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>ethnicity &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io</link>
+	<link>https://thoughtsofstone.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
 		<title>SMASH THE FOUR OLDS!</title>
 		<link>https://thoughtsofstone.github.io/smash-the-four-olds/</link>
 		
@@ -40,7 +43,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=362</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=362</guid>
 
 					<description><![CDATA[Four roots of American degeneracy &#160; Americans who watch with dismay the erasure of various symbols of their history and traditions—statues of Robert E. Lee, Theodore Roosevelt, etc.—might take comfort from certain facts about the Chinese Cultural Revolution, which occurred during 1966-76. The CCR was similar in character but vastly greater in its extremism than &#8230; <a href="https://thoughtsofstone.github.io/smash-the-four-olds/" class="more-link">Continue reading<span class="screen-reader-text"> "SMASH THE FOUR OLDS!"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Four roots of American degeneracy</em></p>
@@ -94,7 +97,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
 		<item>
 		<title>AN ABANDONED AND MALIGNANT HEART</title>
 		<link>https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/</link>
@@ -107,7 +110,7 @@
 		<category><![CDATA[USA]]></category>
 		<category><![CDATA[wokeism]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=284</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=284</guid>
 
 					<description><![CDATA[Thoughts on another miscarriage of justice in the broken USA &#160; An unpopular cause I feel compelled to stick up for today is the cause of Travis McMichael, his father Gregory McMichael, and their neighbor William “Roddie” Bryan, all of Brunswick, Georgia, USA, who were recently found guilty of murdering Ahmaud Arbery. Rightly or wrongly, &#8230; <a href="https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/" class="more-link">Continue reading<span class="screen-reader-text"> "AN ABANDONED AND MALIGNANT HEART"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Thoughts on another miscarriage of justice in the broken USA</em></p>
@@ -212,7 +215,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
 		<item>
 		<title>WHY YOU CAN’T HAVE NICE THINGS</title>
 		<link>https://thoughtsofstone.github.io/why-you-cant-have-nice-things/</link>
@@ -224,7 +227,7 @@
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=240</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=240</guid>
 
 					<description><![CDATA[You don’t want them badly enough &#160; You want your own decent-sized, reasonably priced house, with a yard big enough for the kids to play, and a bit of space at the back for a garden, or maybe even a pool. You want a neighborhood where the houses are built in a pretty vernacular style, &#8230; <a href="https://thoughtsofstone.github.io/why-you-cant-have-nice-things/" class="more-link">Continue reading<span class="screen-reader-text"> "WHY YOU CAN’T HAVE NICE THINGS"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>You don’t want them badly enough</em></p>
@@ -262,7 +265,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
 		<item>
 		<title>THE OTHER N-WORD</title>
 		<link>https://thoughtsofstone.github.io/the-other-n-word/</link>
@@ -274,7 +277,7 @@
 		<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[human ecology]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=212</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=212</guid>
 
 					<description><![CDATA[Who&#8217;s afraid of black nationalism? &#160; America’s leftist elites regard white American nationalism as their principal ideological adversary. But they have another adversary that is often overlooked: black American nationalism. Black American nationalism is very easy to overlook, here in the third decade of the new millennium. Although it has had its day in the &#8230; <a href="https://thoughtsofstone.github.io/the-other-n-word/" class="more-link">Continue reading<span class="screen-reader-text"> "THE OTHER N-WORD"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Who&#8217;s afraid of black nationalism?</em></p>
@@ -306,7 +309,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">212</post-id>	</item>
 		<item>
 		<title>THE AMERICAN WAY OF SUBMISSION</title>
 		<link>https://thoughtsofstone.github.io/the-american-way-of-submission/</link>
@@ -317,7 +320,7 @@
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[revolution]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=113</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=113</guid>
 
 					<description><![CDATA[Americans&#8217; conspiracy theories are blue pills Why are Americans on the political Right so drawn to conspiracy theories, from the chemtrails lore and QAnon to the conviction that COVID-19 vaccines are harmful? It’s hard to say anything with certainty about the causes of social trends, societies not being very amenable to the types of experiments &#8230; <a href="https://thoughtsofstone.github.io/the-american-way-of-submission/" class="more-link">Continue reading<span class="screen-reader-text"> "THE AMERICAN WAY OF SUBMISSION"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Americans&#8217; conspiracy theories are blue pills</em></p>
@@ -356,7 +359,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">113</post-id>	</item>
 		<item>
 		<title>WOKEISM IS AN INTERIM ANTICULTURE</title>
 		<link>https://thoughtsofstone.github.io/wokeism-is-an-interim-anticulture/</link>
@@ -367,7 +370,7 @@
 		<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[immigration]]></category>
 		<category><![CDATA[women]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=64</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=64</guid>
 
 					<description><![CDATA[The Great Awokening may be catastrophic for the USA but as a cultural phenomenon it is inherently transitory &#160; Is the United States in the process of remaking itself with a new ideology called Wokeism? A lot of people seem to think so, but I don&#8217;t. The idea I sketch out briefly here is that &#8230; <a href="https://thoughtsofstone.github.io/wokeism-is-an-interim-anticulture/" class="more-link">Continue reading<span class="screen-reader-text"> "WOKEISM IS AN INTERIM ANTICULTURE"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>The Great Awokening may be catastrophic for the USA but as a cultural phenomenon it is inherently transitory</em></p>
@@ -408,7 +411,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">64</post-id>	</item>
 		<item>
 		<title>SEED OF DESTRUCTION</title>
 		<link>https://thoughtsofstone.github.io/seed-of-destruction/</link>
@@ -418,7 +421,7 @@
 				<category><![CDATA[ethnicity]]></category>
 		<category><![CDATA[fall of the West]]></category>
 		<category><![CDATA[immigration]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=55</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=55</guid>
 
 					<description><![CDATA[An expatriate’s perspective on pan-ethnic mass immigration Western societies almost without exception in recent decades have been transformed by the large-scale additions of essentially all foreign ethnicities to their legacy European-stock populations. How this came about is less important than the fact that it happened and now festers as the central problem of Western civilization. &#8230; <a href="https://thoughtsofstone.github.io/seed-of-destruction/" class="more-link">Continue reading<span class="screen-reader-text"> "SEED OF DESTRUCTION"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>An expatriate’s perspective on pan-ethnic mass immigration</em></p>
@@ -459,7 +462,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">55</post-id>	</item>
 		<item>
 		<title>DON&#8217;T FEED THE ANIMALS</title>
 		<link>https://thoughtsofstone.github.io/dont-feed-the-animals/</link>
@@ -468,7 +471,7 @@
 		<pubDate>Sun, 16 Feb 2020 23:53:44 +0000</pubDate>
 				<category><![CDATA[ethnicity]]></category>
 		<category><![CDATA[human ecology]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=53</guid>
+		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=53</guid>
 
 					<description><![CDATA[Thoughts on conservation biology for humans ____________________________________________ “Don’t feed the animals” is a concept I didn’t really learn until late childhood, when I traveled one summer to Yellowstone with my family, and saw signs everywhere with that warning. It’s a central concept of wildlife management in wilderness areas where humans intrude. It’s a counterintuitive concept, &#8230; <a href="https://thoughtsofstone.github.io/dont-feed-the-animals/" class="more-link">Continue reading<span class="screen-reader-text"> "DON&#8217;T FEED THE ANIMALS"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Thoughts on conservation biology for humans</em></p>
@@ -499,6 +502,6 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">53</post-id>	</item>
 	</channel>
 </rss>
