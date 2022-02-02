@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
+	<item>
 		<title>WHY YOU CAN’T HAVE NICE THINGS</title>
 		<link>https://thoughtsofstone.github.io/why-you-cant-have-nice-things/</link>
 		
@@ -79,7 +76,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
+			</item>
 		<item>
 		<title>THE AMERICAN WAY OF SUBMISSION</title>
 		<link>https://thoughtsofstone.github.io/the-american-way-of-submission/</link>
@@ -129,7 +126,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">113</post-id>	</item>
+			</item>
 		<item>
 		<title>SOME REALITIES OF &#8220;PEOPLE POWER&#8221;</title>
 		<link>https://thoughtsofstone.github.io/some-realities-of-people-power/</link>
@@ -178,6 +175,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
+			</item>
 	</channel>
 </rss>

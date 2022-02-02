@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
+	<item>
 		<title>SMASH THE FOUR OLDS!</title>
 		<link>https://thoughtsofstone.github.io/smash-the-four-olds/</link>
 		
@@ -97,7 +94,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
+			</item>
 		<item>
 		<title>AN ABANDONED AND MALIGNANT HEART</title>
 		<link>https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/</link>
@@ -215,7 +212,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
+			</item>
 		<item>
 		<title>WHY YOU CAN’T HAVE NICE THINGS</title>
 		<link>https://thoughtsofstone.github.io/why-you-cant-have-nice-things/</link>
@@ -265,7 +262,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
+			</item>
 		<item>
 		<title>THE OTHER N-WORD</title>
 		<link>https://thoughtsofstone.github.io/the-other-n-word/</link>
@@ -309,7 +306,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">212</post-id>	</item>
+			</item>
 		<item>
 		<title>THE AMERICAN WAY OF SUBMISSION</title>
 		<link>https://thoughtsofstone.github.io/the-american-way-of-submission/</link>
@@ -359,7 +356,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">113</post-id>	</item>
+			</item>
 		<item>
 		<title>WOKEISM IS AN INTERIM ANTICULTURE</title>
 		<link>https://thoughtsofstone.github.io/wokeism-is-an-interim-anticulture/</link>
@@ -411,7 +408,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">64</post-id>	</item>
+			</item>
 		<item>
 		<title>SEED OF DESTRUCTION</title>
 		<link>https://thoughtsofstone.github.io/seed-of-destruction/</link>
@@ -462,7 +459,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">55</post-id>	</item>
+			</item>
 		<item>
 		<title>DON&#8217;T FEED THE ANIMALS</title>
 		<link>https://thoughtsofstone.github.io/dont-feed-the-animals/</link>
@@ -502,6 +499,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">53</post-id>	</item>
+			</item>
 	</channel>
 </rss>

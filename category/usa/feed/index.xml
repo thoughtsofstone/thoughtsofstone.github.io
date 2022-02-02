@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +12,7 @@
 	<atom:link href="https://thoughtsofstone.github.io/category/usa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thoughtsofstone.github.io/</link>
 	<description>short essays, usually about humans</description>
-	<lastBuildDate>Mon, 31 Jan 2022 22:10:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Feb 2022 23:24:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">202298154</site>	<item>
+	<item>
 		<title>AGGRESSORS AND ALLIANCES</title>
 		<link>https://thoughtsofstone.github.io/aggressors-and-alliances/</link>
 		
@@ -71,7 +68,7 @@
 <p>Secondly, NATO intervened decisively in Bosnia in 1995, to defend the independence of that country from what was essentially an attack by neighboring Serbia as well as by Bosnian-resident ethnic Serbs. What did the beleaguered Muslim Bosnians possess, to justify NATO’s protection, that Christian Ukrainians now lack?</p>
 <p>Thirdly, and just obviously, the only broadly applicable and effective way in which small states can protect themselves from much larger aggressors is by joining alliances or other collective security arrangements. Ukraine naturally would like to do this, but for various reasons, including the terminal pusillanimity of Germany (which still flinches when anyone mentions the Red Army), has not been allowed membership in NATO. Thus, the fact that Ukraine is “not part of NATO” is more a <em>cause</em> of Russia’s bullying than a valid justification for acquiescing in it.</p>
 <p>Fourthly, the US and Russia in 1994 inveigled Ukraine (along with Kazakhstan and Belarus) to give up the Russian nuclear weapons stationed on their soil, in exchange for various security guarantees, under the so-called Budapest Memorandum on Security Assurances. Twenty-eight years on, Russia has blatantly and repeatedly violated this agreement. The US, though it promised at the time to come to Ukraine’s aid if Russia turned against it, has instead sought to weasel out of any real commitment. However, the agreement was explicitly meant to provide a <a href="https://www.brookings.edu/blog/order-from-chaos/2019/12/05/why-care-about-ukraine-and-the-budapest-memorandum/">security assurance</a>—it’s there in the title, folks.</p>
-<p>Fifthly, failing to stand up to Putin will embolden him. I notice the mockery some on the right have leveled, not only at this obvious argument, but also at the obvious Munich 1938 comparison. If there&#8217;s anything about this debate that really sparks my ire, it&#8217;s that smug “you can’t compare now to 1938” stuff. This is not an argument requiring fine, scholarly distinctions between historical events! This is about <em>basic human nature</em>. And, while it’s true that Putin’s aims now might be limited to Ukraine (or mere threats to Ukraine), it’s also true that Hitler’s aims were limited, vis a vis Western Europe, in 1938—but of course his aims got bigger as the threat from those who opposed him got (as he assessed it) smaller. Another way of putting this is that the manly instinct to fight the bully, even at considerable cost, even when the bully doesn’t directly threaten oneself, is not a useless atavism, as some commentators seem to think. It is an <em>adaptive reflex</em> and, along with antibully systems such as NATO (imperfect as they are) underlies the relative peace of the developed world.</p>
+<p>Fifthly, failing to stand up to Putin will embolden him. I notice the mockery some on the right have leveled, not only at this obvious argument, but also at the obvious Munich 1938 comparison. If there&#8217;s anything about this debate that really sparks my ire, it&#8217;s that smug “you can’t compare now to 1938” stuff. This is not an argument requiring fine, scholarly distinctions between historical events! This is about <em>basic human nature</em>. And, while it’s true that Putin’s aims now might be limited to Ukraine (or mere threats to Ukraine), it’s also true that Hitler’s aims were limited, vis a vis Western Europe, in 1938—but of course his aims got bigger as the threat from those who opposed him got (as he assessed it) smaller. Another way of putting this is that the manly instinct to fight the bully, even at considerable cost, even when the bully doesn’t directly threaten oneself, is not a useless atavism, as some commentators seem to think. It is still an <em>adaptive reflex</em> and, along with antibully systems such as NATO (imperfect as they are) underlies the relative peace of the developed world.</p>
 <p>Sixthly, failing to stand up to Putin, allowing him to carry out his rape of Ukraine, will have demoralizing effects on the people of the West. The revealed weakness of the leading Western countries also could nudge any country that had hoped to get the West’s protection to instead become a minion of Russia.</p>
 <p>Finally, failing to stand up to hegemonic bullies is a bad long-run strategy, just in simple logical terms. With no credible alliance to oppose him, the bully can subjugate his victims one by one, conceivably until he is too powerful even for an alliance to oppose.</p>
 <p><strong>What should have been done?</strong></p>
@@ -82,7 +79,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">408</post-id>	</item>
+			</item>
 		<item>
 		<title>THE LAW EMPINKENED</title>
 		<link>https://thoughtsofstone.github.io/the-law-empinkened/</link>
@@ -131,7 +128,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">385</post-id>	</item>
+			</item>
 		<item>
 		<title>SMASH THE FOUR OLDS!</title>
 		<link>https://thoughtsofstone.github.io/smash-the-four-olds/</link>
@@ -199,7 +196,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
+			</item>
 		<item>
 		<title>WE NEED TO TALK ABOUT WOMEN</title>
 		<link>https://thoughtsofstone.github.io/we-need-to-talk-about-women/</link>
@@ -284,7 +281,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">331</post-id>	</item>
+			</item>
 		<item>
 		<title>AN ABANDONED AND MALIGNANT HEART</title>
 		<link>https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/</link>
@@ -402,7 +399,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
+			</item>
 		<item>
 		<title>WHY YOU CAN’T HAVE NICE THINGS</title>
 		<link>https://thoughtsofstone.github.io/why-you-cant-have-nice-things/</link>
@@ -452,7 +449,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
+			</item>
 		<item>
 		<title>THE OTHER N-WORD</title>
 		<link>https://thoughtsofstone.github.io/the-other-n-word/</link>
@@ -496,7 +493,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">212</post-id>	</item>
+			</item>
 		<item>
 		<title>THE AMERICAN WAY OF SUBMISSION</title>
 		<link>https://thoughtsofstone.github.io/the-american-way-of-submission/</link>
@@ -546,7 +543,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">113</post-id>	</item>
+			</item>
 		<item>
 		<title>SOME REALITIES OF &#8220;PEOPLE POWER&#8221;</title>
 		<link>https://thoughtsofstone.github.io/some-realities-of-people-power/</link>
@@ -595,6 +592,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
+			</item>
 	</channel>
 </rss>
