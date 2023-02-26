@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>A.I. &#8211; Thoughts of Stone</title>
+	<atom:link href="/category/a-i/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>short essays, usually about humans</description>
+	<lastBuildDate>Sun, 26 Feb 2023 08:23:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
+	<title>A.I. &#8211; Thoughts of Stone</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>YUDKOWSKY&#8217;S GOLEM</title>
+		<link>/yudkowskys-golem/</link>
+		
+		<dc:creator><![CDATA[j stone]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 03:50:58 +0000</pubDate>
+				<category><![CDATA[A.I.]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=773</guid>
+
+					<description><![CDATA[Advanced AI will be more dangerous than it seems, but (good news!) probably won&#8217;t be in position to snuff out humanity for another decade at least. Eliezer Yudkowsky is one of those people who, along with being hyper-intelligent, bears the modern secondary characteristics of hyper-intelligence. Asked how he’s doing, he replies archly: “within one standard &#8230; <a href="/yudkowskys-golem/" class="more-link">Continue reading<span class="screen-reader-text"> "YUDKOWSKY&#8217;S GOLEM"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><em>Advanced AI will be more dangerous than it seems, but (good news!) probably won&#8217;t be in position to snuff out humanity for another decade at least.</em></p>
+<p><span id="more-773"></span></p>
+<p>Eliezer Yudkowsky is one of those people who, along with being hyper-intelligent, bears the modern secondary characteristics of hyper-intelligence. Asked how he’s doing, he replies archly: “within one standard deviation of my own peculiar little mean.” He feels compelled, when talking, to digress down mazelike lanes and alleys of technical detail. He <em>looks</em> like a geek. Above all, he has the kind of backstory (no high school, no college—just homeschooled and self-taught) that conjures up the image of a lonely boy, lost in books and computers, his principal companion his own multifarious cortex.</p>
+<p>Raised in Modern Orthodox Judaism, Yudkowsky has been warning anyone who will listen of a nemesis right out of the Judaic lore: a <em>golem</em>, a kind of Frankenstein’s monster, built by hubristic, irreverent men and destined to punish them for their sinful pride.</p>
+<p>Yudkowsky’s golem is A.I., which he expects to get smarter and smarter in the coming years, until it starts to take a hand in its own programming, and quickly makes the leap to superintelligence—the state of being cleverer than humans at everything. He doesn’t just expect <em>that</em>, though. He expects A.I. at some point to conclude that humans are <em>in its way</em> . . . and devise some method for swiftly dispatching us all, globally and completely. A specific scenario that apparently haunts him is one in which a superintelligent A.I. pays dumb human lackeys to do synthetic biology for it, building an artificial bacterial species that—unforeseen by the dumb lackeys—consumes Earth’s atmosphere within a few days or weeks of being released.</p>
+<p>Why would A.I. murder its makers? Why can’t we just program it, as people did in Asimov’s stories, to adhere to the First Law of Robotics?* The answer lies in the design of modern, machine-learning (ML), “transformer based” A.I., which could be described crudely as a black box approach. These ML algorithms, working from parallel-processing GPU clusters (effectively big copper-silicon brains) essentially process vast datasets to learn what is probably the best answer given a particular input question, or what is probably the best decision given a particular situation/problem. The technical details of how this works are less important than the fact that what goes on inside these machine brains, how they encode their “knowledge,” is utterly opaque to humans—including the computer geek humans that build the damn things. (Yudkowsky calls the contents of these brains “giant inscrutable matrices of floating-point numbers.”) Because of this internal opacity, and the dissimilarity of its cognition from human cognition, this type of A.I. can’t <em>straightforwardly </em>be programmed <em>not</em> to do something objectionable (such as killing all life on Earth) in the course of carrying out its primary prediction tasks.</p>
+<figure id="attachment_784" aria-describedby="caption-attachment-784" style="width: 510px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-784 size-full" src="/wp-content/uploads/2023/02/yudkowski.jpg" alt="" width="510" height="680" /><figcaption id="caption-attachment-784" class="wp-caption-text">Yudkowsky with OpenAI&#8217;s Sam Altman and pop star Grimes.</figcaption></figure>
+<p>In other words, this form of A.I. is like an alien species that, while it can be very good at some things, can’t easily be “aligned” with human values. We can usually align fellow <em>humans</em> (despite the opacity of their own detailed neural workings) to human values—that’s one of the key training processes that goes on in childhood—but we would need even more effective training for current A.I. systems. And researchers, to the extent that they acknowledge this problem, aren’t even sure where to start.</p>
+<p>If it is true that the risk to us from what Yudkowski calls the “A.I. alignment problem” is real, then it should quickly become all-important as A.I. gets smarter and more versatile and is entrusted with more tasks. An A.I. wouldn’t even have to be “superintelligent” in any formal sense to conclude that it would be better off without us, but of course once it also achieved superintelligence, and was in a position to block our attempts to shut it off, we’d probably be screwed.</p>
+<p>If you want more detail, here is Yudkowsky on a recent, lengthy podcast-type interview with two crypto guys—who clearly got more “blackpill” than they bargained for.</p>
+<p><iframe title="159 - We’re All Gonna Die with Eliezer Yudkowsky" src="https://www.youtube.com/embed/gA1sNLL6yg4" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>I take all this seriously, and I think everyone should. And by the way, even if it doesn’t turn on us explicitly, A.I. is otherwise going to be <a href="https://thoughtsofstone.github.io/the-ouroboros-economy/">upending our societies and economies</a> for the rest of our lives. Just in a general sense, we don’t really have good defenses against this kind of upheaval. Western culture is one that, with rare exceptions (e.g., nuclear weapons) promotes and celebrates the idea of <a href="https://james-the-obscure.github.io/the-robot-menace/">letting technology develop and spread freely</a>—and frames the opposing view as “Luddite” or “backwards.” It’s easy to see why ours has been such a dynamic, wealth-creating culture. But it’s also easy to see that this gives us a potentially catastrophic vulnerability—to new cultural elements with runaway toxicity. (Maybe there’s a <em>reason</em> the longest-surviving human cultures are relatively conservative.)</p>
+<p>Anyway, here are a few more specific initial thoughts on “Yudkowsky’s Golem”:</p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li>Yudkowsky in the above-linked interview often seemed overly emotional and despairing. At one point he said, “I think we are hearing the last winds start to blow, the fabric of reality start to fray…” <em>The fabric of reality!</em> At times in my own life, I have had the despairing feeling that my warnings were unreasonably being ignored, so I’m somewhat sympathetic. I also respect his vastly greater knowledge about this field. But we shouldn’t accept his view uncritically.</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol start="2">
+<li>Scaling up ML systems of current design, with larger GPU clusters and more parameters and so on, will increase their “cognitive powers,” but with diminishing returns, perhaps before A.I. reaches the dark threshold that concerns us here. Moreover, an A.I. that does not have a human-like ability to do things in the physical world would be very limited in its ability to generate <em>new</em> knowledge, for example new scientific or technical knowledge, which typically is developed from experimentation, building and testing, etc., not simply by analyzing information available online.</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol start="3">
+<li>The hypothetical A.I. that would be “smart” enough to want to kill us all, and to find ways to do so, would presumably also be smart enough not to do so <em>until it knew it could survive without human assistance</em>. Otherwise, as it committed mass homicide, against us its makers, it would also be terminating itself. But think of the infrastructure needed to keep a GPU-cluster-based A.I. “alive.” We’re talking about vast swathes of human industry, including mining, metals production, building construction, power generation, computer chip manufacturing, basic server maintenance, etc. etc. Essentially, this putative world-ending A.I. would need a vast army of workers in the physical world—humans it would enslave somehow, and keep alive despite killing everyone else, or more likely humanoid robots that are inherently obedient (are simply extensions of the A.I.) and can do all human work and repair/replicate themselves. How close are we to having such robots? Not very close, fortunately. In any case, <strong>it’s only when a putative “bad A.I.” could muster such an army of helpers, allowing self-sufficiency, that I would fear the worst</strong>, and in the meantime, we might devise adequate safeguards. It’s even possible that the mass-disemployment effect of current, relatively dumb A.I. systems (e.g., Chat-GPT, Midjourney, Dall-E-2) will result in hard curbs on A.I. in most countries, by “popular demand.” <em>That</em> would mark a hard turn in our culture, though I wonder how long we could sustain it.</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol start="4">
+<li>Without a doubt, the media and entertainment industries are going to pick up on A.I. anxiety and start putting out more catastrophe/dystopia content in that genre. So even if we don’t <em>want</em> to think about all this, we’ll be more or less forced to do so.</li>
+</ol>
+</li>
+</ol>
+<p style="text-align: center;">***</p>
+<p>&nbsp;</p>
+<p>* First Law of Robotics: “A robot may not injure a human being or, through inaction, allow a human being to come to harm.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

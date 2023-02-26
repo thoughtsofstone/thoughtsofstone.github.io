@@ -9,10 +9,10 @@
 
 <channel>
 	<title>technology &#8211; Thoughts of Stone</title>
-	<atom:link href="https://thoughtsofstone.github.io/category/technology/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io/</link>
+	<atom:link href="/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>short essays, usually about humans</description>
-	<lastBuildDate>Fri, 13 Jan 2023 04:56:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Feb 2023 08:23:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,15 +21,76 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>technology &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>YUDKOWSKY&#8217;S GOLEM</title>
+		<link>/yudkowskys-golem/</link>
+		
+		<dc:creator><![CDATA[j stone]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 03:50:58 +0000</pubDate>
+				<category><![CDATA[A.I.]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=773</guid>
+
+					<description><![CDATA[Advanced AI will be more dangerous than it seems, but (good news!) probably won&#8217;t be in position to snuff out humanity for another decade at least. Eliezer Yudkowsky is one of those people who, along with being hyper-intelligent, bears the modern secondary characteristics of hyper-intelligence. Asked how he’s doing, he replies archly: “within one standard &#8230; <a href="/yudkowskys-golem/" class="more-link">Continue reading<span class="screen-reader-text"> "YUDKOWSKY&#8217;S GOLEM"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><em>Advanced AI will be more dangerous than it seems, but (good news!) probably won&#8217;t be in position to snuff out humanity for another decade at least.</em></p>
+<p><span id="more-773"></span></p>
+<p>Eliezer Yudkowsky is one of those people who, along with being hyper-intelligent, bears the modern secondary characteristics of hyper-intelligence. Asked how he’s doing, he replies archly: “within one standard deviation of my own peculiar little mean.” He feels compelled, when talking, to digress down mazelike lanes and alleys of technical detail. He <em>looks</em> like a geek. Above all, he has the kind of backstory (no high school, no college—just homeschooled and self-taught) that conjures up the image of a lonely boy, lost in books and computers, his principal companion his own multifarious cortex.</p>
+<p>Raised in Modern Orthodox Judaism, Yudkowsky has been warning anyone who will listen of a nemesis right out of the Judaic lore: a <em>golem</em>, a kind of Frankenstein’s monster, built by hubristic, irreverent men and destined to punish them for their sinful pride.</p>
+<p>Yudkowsky’s golem is A.I., which he expects to get smarter and smarter in the coming years, until it starts to take a hand in its own programming, and quickly makes the leap to superintelligence—the state of being cleverer than humans at everything. He doesn’t just expect <em>that</em>, though. He expects A.I. at some point to conclude that humans are <em>in its way</em> . . . and devise some method for swiftly dispatching us all, globally and completely. A specific scenario that apparently haunts him is one in which a superintelligent A.I. pays dumb human lackeys to do synthetic biology for it, building an artificial bacterial species that—unforeseen by the dumb lackeys—consumes Earth’s atmosphere within a few days or weeks of being released.</p>
+<p>Why would A.I. murder its makers? Why can’t we just program it, as people did in Asimov’s stories, to adhere to the First Law of Robotics?* The answer lies in the design of modern, machine-learning (ML), “transformer based” A.I., which could be described crudely as a black box approach. These ML algorithms, working from parallel-processing GPU clusters (effectively big copper-silicon brains) essentially process vast datasets to learn what is probably the best answer given a particular input question, or what is probably the best decision given a particular situation/problem. The technical details of how this works are less important than the fact that what goes on inside these machine brains, how they encode their “knowledge,” is utterly opaque to humans—including the computer geek humans that build the damn things. (Yudkowsky calls the contents of these brains “giant inscrutable matrices of floating-point numbers.”) Because of this internal opacity, and the dissimilarity of its cognition from human cognition, this type of A.I. can’t <em>straightforwardly </em>be programmed <em>not</em> to do something objectionable (such as killing all life on Earth) in the course of carrying out its primary prediction tasks.</p>
+<figure id="attachment_784" aria-describedby="caption-attachment-784" style="width: 510px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-784 size-full" src="/wp-content/uploads/2023/02/yudkowski.jpg" alt="" width="510" height="680" /><figcaption id="caption-attachment-784" class="wp-caption-text">Yudkowsky with OpenAI&#8217;s Sam Altman and pop star Grimes.</figcaption></figure>
+<p>In other words, this form of A.I. is like an alien species that, while it can be very good at some things, can’t easily be “aligned” with human values. We can usually align fellow <em>humans</em> (despite the opacity of their own detailed neural workings) to human values—that’s one of the key training processes that goes on in childhood—but we would need even more effective training for current A.I. systems. And researchers, to the extent that they acknowledge this problem, aren’t even sure where to start.</p>
+<p>If it is true that the risk to us from what Yudkowski calls the “A.I. alignment problem” is real, then it should quickly become all-important as A.I. gets smarter and more versatile and is entrusted with more tasks. An A.I. wouldn’t even have to be “superintelligent” in any formal sense to conclude that it would be better off without us, but of course once it also achieved superintelligence, and was in a position to block our attempts to shut it off, we’d probably be screwed.</p>
+<p>If you want more detail, here is Yudkowsky on a recent, lengthy podcast-type interview with two crypto guys—who clearly got more “blackpill” than they bargained for.</p>
+<p><iframe title="159 - We’re All Gonna Die with Eliezer Yudkowsky" src="https://www.youtube.com/embed/gA1sNLL6yg4" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>I take all this seriously, and I think everyone should. And by the way, even if it doesn’t turn on us explicitly, A.I. is otherwise going to be <a href="https://thoughtsofstone.github.io/the-ouroboros-economy/">upending our societies and economies</a> for the rest of our lives. Just in a general sense, we don’t really have good defenses against this kind of upheaval. Western culture is one that, with rare exceptions (e.g., nuclear weapons) promotes and celebrates the idea of <a href="https://james-the-obscure.github.io/the-robot-menace/">letting technology develop and spread freely</a>—and frames the opposing view as “Luddite” or “backwards.” It’s easy to see why ours has been such a dynamic, wealth-creating culture. But it’s also easy to see that this gives us a potentially catastrophic vulnerability—to new cultural elements with runaway toxicity. (Maybe there’s a <em>reason</em> the longest-surviving human cultures are relatively conservative.)</p>
+<p>Anyway, here are a few more specific initial thoughts on “Yudkowsky’s Golem”:</p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li>Yudkowsky in the above-linked interview often seemed overly emotional and despairing. At one point he said, “I think we are hearing the last winds start to blow, the fabric of reality start to fray…” <em>The fabric of reality!</em> At times in my own life, I have had the despairing feeling that my warnings were unreasonably being ignored, so I’m somewhat sympathetic. I also respect his vastly greater knowledge about this field. But we shouldn’t accept his view uncritically.</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol start="2">
+<li>Scaling up ML systems of current design, with larger GPU clusters and more parameters and so on, will increase their “cognitive powers,” but with diminishing returns, perhaps before A.I. reaches the dark threshold that concerns us here. Moreover, an A.I. that does not have a human-like ability to do things in the physical world would be very limited in its ability to generate <em>new</em> knowledge, for example new scientific or technical knowledge, which typically is developed from experimentation, building and testing, etc., not simply by analyzing information available online.</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol start="3">
+<li>The hypothetical A.I. that would be “smart” enough to want to kill us all, and to find ways to do so, would presumably also be smart enough not to do so <em>until it knew it could survive without human assistance</em>. Otherwise, as it committed mass homicide, against us its makers, it would also be terminating itself. But think of the infrastructure needed to keep a GPU-cluster-based A.I. “alive.” We’re talking about vast swathes of human industry, including mining, metals production, building construction, power generation, computer chip manufacturing, basic server maintenance, etc. etc. Essentially, this putative world-ending A.I. would need a vast army of workers in the physical world—humans it would enslave somehow, and keep alive despite killing everyone else, or more likely humanoid robots that are inherently obedient (are simply extensions of the A.I.) and can do all human work and repair/replicate themselves. How close are we to having such robots? Not very close, fortunately. In any case, <strong>it’s only when a putative “bad A.I.” could muster such an army of helpers, allowing self-sufficiency, that I would fear the worst</strong>, and in the meantime, we might devise adequate safeguards. It’s even possible that the mass-disemployment effect of current, relatively dumb A.I. systems (e.g., Chat-GPT, Midjourney, Dall-E-2) will result in hard curbs on A.I. in most countries, by “popular demand.” <em>That</em> would mark a hard turn in our culture, though I wonder how long we could sustain it.</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol start="4">
+<li>Without a doubt, the media and entertainment industries are going to pick up on A.I. anxiety and start putting out more catastrophe/dystopia content in that genre. So even if we don’t <em>want</em> to think about all this, we’ll be more or less forced to do so.</li>
+</ol>
+</li>
+</ol>
+<p style="text-align: center;">***</p>
+<p>&nbsp;</p>
+<p>* First Law of Robotics: “A robot may not injure a human being or, through inaction, allow a human being to come to harm.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>THE LAST HISTORY AND THE END OF MAN</title>
-		<link>https://thoughtsofstone.github.io/the-last-history-and-the-end-of-man/</link>
+		<link>/the-last-history-and-the-end-of-man/</link>
 		
 		<dc:creator><![CDATA[j stone]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 04:45:23 +0000</pubDate>
@@ -39,9 +100,9 @@
 		<category><![CDATA[psychology]]></category>
 		<category><![CDATA[science]]></category>
 		<category><![CDATA[technology]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=762</guid>
+		<guid isPermaLink="false">/?p=762</guid>
 
-					<description><![CDATA[Why most planetary civilizations collapse &#160; I didn’t get into video games until I was in my 40s. Oddly enough, it was a historian who triggered my interest. Niall Ferguson, the bestselling author, columnist, TV personality and Stanford professor, penned a 2006 New York Magazine piece, “How to Win a War,” that persuasively extolled the &#8230; <a href="https://thoughtsofstone.github.io/the-last-history-and-the-end-of-man/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAST HISTORY AND THE END OF MAN"</span></a>]]></description>
+					<description><![CDATA[Why most planetary civilizations collapse &#160; I didn’t get into video games until I was in my 40s. Oddly enough, it was a historian who triggered my interest. Niall Ferguson, the bestselling author, columnist, TV personality and Stanford professor, penned a 2006 New York Magazine piece, “How to Win a War,” that persuasively extolled the &#8230; <a href="/the-last-history-and-the-end-of-man/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAST HISTORY AND THE END OF MAN"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Why most planetary civilizations collapse</em></p>
 <p><span id="more-762"></span></p>
 <p>&nbsp;</p>
@@ -72,7 +133,7 @@
 <p>All this points to the conclusion that a God of the Universe, if anything like Him exists, has no special interest in humans; and, moreover, that all human “meaning” and “significance” is strictly local—strictly confined to our tiny speck of reality.</p>
 <p style="text-align: center;">*</p>
 <p>Probably like most people who grew up in the latter half of the 20<sup>th</sup> century, I’ve tended to react to these scientific revelations by ignoring them. To the extent that I did think about them, in my younger years, I assumed with vague optimism that humans someday, through better technology, could spread from one star system to another, and so on until they establish their universality, perhaps ultimately melding with whatever force or entity made the universe. I think it’s fair to say that a lot of other people, including prominent advocates of space exploration, still think the same way.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-763" src="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/spacefaring2.jpg" alt="" width="556" height="682" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-763" src="/wp-content/uploads/2023/01/spacefaring2.jpg" alt="" width="556" height="682" /></p>
 <p>I now see such optimism as a form of denial—a denial that is going to be harder and harder to maintain, as time goes on and we humans are increasingly confronted with the nature of our reality.</p>
 <p>How we understand that reality is something that I expect will undergo various elaborations in the coming decades. But it should already be apparent that the idea we could ever “conquer the universe,” or in any way escape the utter insignificance of our existence, is naïve.</p>
 <p>The most obvious (though not even the worst) part of the problem is that the universe is just unmanageably vast: larger than we can ever observe, expanding faster than light, and very likely infinite—which would mean that the human realm or contribution, in relation to the whole, could never be more than infinitesimal. This idea that space is effectively infinite the physicist and cosmology popularizer Brian Greene has <a href="https://www.amazon.com/Hidden-Reality-Parallel-Universes-Cosmos/dp/0307278123">described</a> as “consistent with all observations and . . . part of the cosmological model favored by many physicists and astronomers.”</p>
@@ -91,9 +152,9 @@
 <p>Yet the things we do learn and think about ultimately affect our behavior, if only subconsciously. One doesn’t have to be a philosopher or a psychologist to understand—to take another extreme example—that if we all knew our solar system would be obliterated within a year, making it obvious that our existence was and always had been inconsequential, enough of us would fall into despair that our societies would start to disintegrate immediately.</p>
 <p>I think the reason we’ve largely been able, so far, to resist the toxic implications of modern cosmology is simply that we haven’t been forced to confront them. But that situation is changing.</p>
 <p>When I was growing up in the 1970s and early 80s, cosmology was expansive but still quite tame compared to what was coming. Carl Sagan’s 1980 <em>Cosmos</em> TV series on PBS, for example, was hardly despair-inducing. One could contemplate the large universe depicted by Sagan and other pop cosmologists of the time, and, as I noted above, could still fantasize about humans’ someday traversing and conquering it. MWI and other infinite-universe theories had not yet caught on, certainly not at the popular level.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-764" src="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/sagan-cosmos.jpg" alt="" width="714" height="440" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-764" src="/wp-content/uploads/2023/01/sagan-cosmos.jpg" alt="" width="714" height="440" /></p>
 <p>These days, by contrast, MWI and similar “parallel universe” themes are essential elements of pop cosmology, and, perhaps more importantly, are also common in <a href="https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once">pop culture</a> generally.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-765" src="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/everything-ev.jpg" alt="" width="800" height="399" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/everything-ev.jpg 800w, https://thoughtsofstone.github.io/wp-content/uploads/2023/01/everything-ev-768x383.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-765" src="/wp-content/uploads/2023/01/everything-ev.jpg" alt="" width="800" height="399" srcset="/wp-content/uploads/2023/01/everything-ev.jpg 800w, /wp-content/uploads/2023/01/everything-ev-768x383.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
 <p>Moreover, although technologies based on quantum mechanics (such as lasers) have been around for decades, newer quantum tech such as quantum computing and quantum encryption emphasizes, for the first time, the spookier, multiplicity-of-states aspect of quantum mechanics—the aspect that MWI essentially was devised to explain. Thus, from popular science to tech to popular media culture generally, people are being exposed to the infinite-universe/multiverse idea as never before, and in ever-stronger doses.</p>
 <p>The impact of that rising exposure won’t be immediately obvious. There are, and in the coming decades will continue to be, many other drivers of despair, disruption, suicide, and social disintegration in the modern world—drivers such as <a href="https://thoughtsofstone.github.io/cultural-feminization-an-introduction/">cultural feminization</a>, mass immigration, and <a href="https://thoughtsofstone.github.io/the-ouroboros-economy/">human-displacing AI systems</a>. Trying to disentangle the effect of one of these from the others is going to be challenging, to put it mildly. But, if my hypothesis is correct, “cosmological despair” will weigh more and more heavily and evidently on developed societies—especially among younger people, who will encounter MWI and similarly harsh cosmologies in their formative years, never having had the comforts of older, friendlier worldviews. In other words, if the world is now entering an Age of Despair principally for other reasons, cosmology will keep it there terminally.</p>
 <p style="text-align: center;">*</p>
@@ -111,7 +172,7 @@
 			</item>
 		<item>
 		<title>THE OUROBOROS ECONOMY</title>
-		<link>https://thoughtsofstone.github.io/the-ouroboros-economy/</link>
+		<link>/the-ouroboros-economy/</link>
 		
 		<dc:creator><![CDATA[j stone]]></dc:creator>
 		<pubDate>Fri, 02 Dec 2022 04:32:55 +0000</pubDate>
@@ -122,9 +183,9 @@
 		<category><![CDATA[psychology]]></category>
 		<category><![CDATA[technology]]></category>
 		<category><![CDATA[USA]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=730</guid>
+		<guid isPermaLink="false">/?p=730</guid>
 
-					<description><![CDATA[You are about to become obsolete. &#160; When labor becomes scarce, expensive, and/or unreliable, business owners start looking for alternatives. For most of the past 30 years, a very attractive alternative was offshoring—to countries like China, where labor was cheap, plentiful, and reliable. In the past three years, the COVID pandemic and the maturing of &#8230; <a href="https://thoughtsofstone.github.io/the-ouroboros-economy/" class="more-link">Continue reading<span class="screen-reader-text"> "THE OUROBOROS ECONOMY"</span></a>]]></description>
+					<description><![CDATA[You are about to become obsolete. &#160; When labor becomes scarce, expensive, and/or unreliable, business owners start looking for alternatives. For most of the past 30 years, a very attractive alternative was offshoring—to countries like China, where labor was cheap, plentiful, and reliable. In the past three years, the COVID pandemic and the maturing of &#8230; <a href="/the-ouroboros-economy/" class="more-link">Continue reading<span class="screen-reader-text"> "THE OUROBOROS ECONOMY"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>You are about to become obsolete.<br />
 </em></p>
 <p><span id="more-730"></span></p>
@@ -134,12 +195,12 @@
 <p>AI has taken longer than expected to arrive in useful forms, but is now definitely arriving and ready to start disrupting. It can, technically if not yet legally, drive cars, tractors, trains, and boats; fly planes and drones; and guard warehouses. The mechanization technology underlying humanoid robots has been making big advances too—such robots now can open doors, climb stairs, recover from falls, hold and manipulate heavy objects, etc. Once such robots are mass-produced and made available for leasing, their use as replacements for factory workers, waiters, construction workers, checkout clerks, etc. will become a viable proposition. Will we have to wait as long as five years before that starts?</p>
 <p>AI language-processing software that can be taught, or can teach itself via the Internet, should start displacing office worker bees well before then—and by worker bees I mean basically anyone whose job consists largely of emailing, writing reports, filling out spreadsheets, and doing other routine kinds of paperwork. And we’ve all seen the AI text-to-image and text-to-movie <a href="https://huggingface.co/spaces/stabilityai/stable-diffusion">packages</a> that were unleashed recently and have been improving at a rapid pace. How long will it be before a single writer, working with one of those algos, generates a feature-length film on his own? A year from now? Two?</p>
 <p>Essentially, we’re facing the prospect of the abrupt end of the labor market, an institution that has been at the center of human civilization for millennia.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-732" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/12/silent-running.jpg" alt="" width="1200" height="638" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/12/silent-running.jpg 1200w, https://thoughtsofstone.github.io/wp-content/uploads/2022/12/silent-running-768x408.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-732" src="/wp-content/uploads/2022/12/silent-running.jpg" alt="" width="1200" height="638" srcset="/wp-content/uploads/2022/12/silent-running.jpg 1200w, /wp-content/uploads/2022/12/silent-running-768x408.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></p>
 <p>I’m aware that critics of earlier forms of labor-saving technology, such as the Luddites and their ilk, were somewhat shortsighted in their predictions of mass labor displacement. These early industrial workers were themselves displaced in large numbers, and in that sense had every reason to complain. What they failed to see was that the labor-saving innovations that displaced them would, on the whole, lead to greater productivity and economic growth, and ultimately a net rise in demand for labor.</p>
 <p>But that was then, and this is now. The tech that’s going to be released into the world in this decade will be capable of displacing humans from their jobs much faster than the latter will be able to keep up. In other words, if you are laid off because your employer or clients can just buy an AI package to do the same job more cheaply, and you then decide to retrain for some “AI-proof” job, it’s quite likely that that “AI-proof” job will be overtaken by AI long before you can get into it. Even if that job stays available, you’d be competing for it with an exponentially rising number of other displaced human workers.</p>
 <p>It’s impossible to predict in detail how this will all play out. But I can easily imagine an early phase in which language-processing AI, vehicle AI, warehouse robots, and a few other related innovations are hailed as game-changers for businesses and other organizations, allowing them to do much more with fewer workers and at less cost—and alleviating inflationary labor shortages along the way. Close on the heels of that “denial” phase, though, will come the bargaining, depression, and acceptance phases, as the pace of disemployment accelerates. I see this as an ouroboros—snake-eating-its-tail—process, because it involves the economy effectively consuming itself, i.e., destroying, with every increment of growth and investment in innovation, the employment earnings that are the principal fuel for a modern economy.</p>
 <p>There may be no stable equilibrium in this process for a long while. Governments probably will try to tax businesses, especially AI-using businesses, to fund welfare payments to the unemployed masses, but will that work? Even if governments could manage it fiscally, what would be the psychological effect on tens of millions of people who can no longer earn a living for themselves? (We already know that <a href="https://blogs.lse.ac.uk/politicsandpolicy/men-are-more-likely-to-suffer-adverse-health-consequences-as-a-result-of-unemployment-than-women/">men become easily depressed when unemployed</a>.)</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-734" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/12/wall-e.jpg" alt="" width="790" height="331" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/12/wall-e.jpg 790w, https://thoughtsofstone.github.io/wp-content/uploads/2022/12/wall-e-768x322.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-734" src="/wp-content/uploads/2022/12/wall-e.jpg" alt="" width="790" height="331" srcset="/wp-content/uploads/2022/12/wall-e.jpg 790w, /wp-content/uploads/2022/12/wall-e-768x322.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
 <p>It also seems unlikely that Western governments would ever simply disallow the use of AI and robotics. One of the great lessons of the mass immigration era is that Western governments, ostensibly “democratic,” <em>like</em> having electorates made up of financially stressed people whose votes can be bought with government largesse.</p>
 <p>It stands to reason that the disemployment situation will be easier in countries that currently have relatively small workforces—or rely on guest workers who can be sent quickly back to their home countries if needed. By the same logic, countries with open borders and huge, low-skill, permanent immigrant populations, like the US, could be in serious trouble. Those countries will suddenly have many millions of excess mouths to feed, and to do so might easily require taxation levels that trigger capital flight.</p>
 <p>I’m not totally averse to the idea that at the end of this transition lies a society in which robots do everything for near-zero cost and humans can stay busy however they like without worrying much about money. But it’s hard to believe this transition will occur without historic levels of pain. I’ve written often in this space about various drivers of Western decline, collapse, and general upheaval; the now-imminent “ouroboros economy” of AI and robotics is surely another one.</p>
@@ -152,35 +213,35 @@
 			</item>
 		<item>
 		<title>THE TREE OF KNOWLEDGE</title>
-		<link>https://thoughtsofstone.github.io/the-tree-of-knowledge/</link>
+		<link>/the-tree-of-knowledge/</link>
 		
 		<dc:creator><![CDATA[j stone]]></dc:creator>
 		<pubDate>Sat, 16 Apr 2022 21:52:30 +0000</pubDate>
 				<category><![CDATA[ideas]]></category>
 		<category><![CDATA[psychology]]></category>
 		<category><![CDATA[technology]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=566</guid>
+		<guid isPermaLink="false">/?p=566</guid>
 
-					<description><![CDATA[Encourage new ideas and more productive dialogue by giving idea-originators the credit they’re due &#160; Late in 2011, I first put pen to paper, or fingertips to keyboard, to describe an idea that had been bouncing around in my mind for several years—at least since Larry Summers’s public defenestration from Harvard in 2005. The idea &#8230; <a href="https://thoughtsofstone.github.io/the-tree-of-knowledge/" class="more-link">Continue reading<span class="screen-reader-text"> "THE TREE OF KNOWLEDGE"</span></a>]]></description>
+					<description><![CDATA[Encourage new ideas and more productive dialogue by giving idea-originators the credit they’re due &#160; Late in 2011, I first put pen to paper, or fingertips to keyboard, to describe an idea that had been bouncing around in my mind for several years—at least since Larry Summers’s public defenestration from Harvard in 2005. The idea &#8230; <a href="/the-tree-of-knowledge/" class="more-link">Continue reading<span class="screen-reader-text"> "THE TREE OF KNOWLEDGE"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Encourage new ideas and more productive dialogue by giving idea-originators the credit they’re due</em></p>
 <p><span id="more-566"></span></p>
 <p>&nbsp;</p>
 <p>Late in 2011, I first put pen to paper, or fingertips to keyboard, to describe an idea that had been bouncing around in my mind for several years—at least since Larry Summers’s public <a href="https://thoughtsofstone.github.io/the-day-the-logic-died/">defenestration</a> from Harvard in 2005. The idea was that women’s unprecedented mass entry into public life, in the US and other Western societies, had been “feminizing” public discourse and policy—leading among other things to the rise of political correctness culture, the increasing suppression of free speech, and the decline of capital punishment—due to women’s different way of thinking about the world.</p>
 <p>I wasn’t a professional opinionator—just an amateur with a background in journalism. But I did have a website where I published occasional essays, which were read by a few hundreds to thousands of people every month, and there I first set down my thoughts in a <a href="https://james-the-obscure.github.io/the-demise-of-guythink/">short piece</a> about the demise of the male cognitive style. In the ensuing decade, I developed the basic idea in further essays, including in two web magazines with significant readership. I joined Twitter to promote these essays. Eventually I had some recognition as an introducer of this idea.</p>
-<p><img decoding="async" loading="lazy" class="size-full wp-image-573 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/spotted-toad.jpg" alt="" width="591" height="224" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/spotted-toad.jpg 591w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/spotted-toad-300x114.jpg 300w" sizes="(max-width: 591px) 85vw, 591px" /></p>
-<p><img decoding="async" loading="lazy" class="wp-image-574 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/cowen-Copy.jpg" alt="" width="471" height="310" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/cowen-Copy.jpg 660w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/cowen-Copy-300x198.jpg 300w" sizes="(max-width: 471px) 85vw, 471px" /></p>
-<p><img decoding="async" loading="lazy" class="wp-image-575 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover.jpg" alt="" width="364" height="527" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover.jpg 1246w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover-207x300.jpg 207w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover-707x1024.jpg 707w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover-768x1113.jpg 768w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover-1060x1536.jpg 1060w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/pink-shift-cover-1200x1738.jpg 1200w" sizes="(max-width: 364px) 85vw, 364px" /></p>
+<p><img decoding="async" class="size-full wp-image-573 aligncenter" src="/wp-content/uploads/2022/04/spotted-toad.jpg" alt="" width="591" height="224" srcset="/wp-content/uploads/2022/04/spotted-toad.jpg 591w, /wp-content/uploads/2022/04/spotted-toad-300x114.jpg 300w" sizes="(max-width: 591px) 85vw, 591px" /></p>
+<p><img decoding="async" class="wp-image-574 aligncenter" src="/wp-content/uploads/2022/04/cowen-Copy.jpg" alt="" width="471" height="310" srcset="/wp-content/uploads/2022/04/cowen-Copy.jpg 660w, /wp-content/uploads/2022/04/cowen-Copy-300x198.jpg 300w" sizes="(max-width: 471px) 85vw, 471px" /></p>
+<p><img decoding="async" class="wp-image-575 aligncenter" src="/wp-content/uploads/2022/04/pink-shift-cover.jpg" alt="" width="364" height="527" srcset="/wp-content/uploads/2022/04/pink-shift-cover.jpg 1246w, /wp-content/uploads/2022/04/pink-shift-cover-207x300.jpg 207w, /wp-content/uploads/2022/04/pink-shift-cover-707x1024.jpg 707w, /wp-content/uploads/2022/04/pink-shift-cover-768x1113.jpg 768w, /wp-content/uploads/2022/04/pink-shift-cover-1060x1536.jpg 1060w, /wp-content/uploads/2022/04/pink-shift-cover-1200x1738.jpg 1200w" sizes="(max-width: 364px) 85vw, 364px" /></p>
 <p>The idea of cultural feminization became more and more obvious in the wake of the Great Awokening, which appeared to be a heavily female-dominated social phenomenon. One <a href="https://thecritic.co.uk/issues/december-january-2022/new-female-ascendency/">writer</a> after <a href="https://www.nytimes.com/2022/01/12/opinion/gender-gap-politics.html">another</a> began to notice and embrace the cultural feminization idea as their own—either not knowing of my (and others’) prior <a href="https://thoughtsofstone.github.io/cultural-feminization-a-bibliography/">contributions</a>, or knowing of them but not considering them “big” enough, in terms of readership and public awareness, to acknowledge them.</p>
 <p>I may be ultra-sensitive on this topic, because some of my past journalistic work has been used by others with inadequate attribution (or none). I am also aware that this is a very personal kind of pain, one that tends to attract little sympathy from those who have not had a similar experience.</p>
 <div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
-<video class="wp-video-shortcode" id="video-566-1" width="640" height="352" preload="metadata" controls="controls"><source type="video/mp4" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4?_=1" /><a href="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4">https://thoughtsofstone.github.io/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4</a></video></div>
+<video class="wp-video-shortcode" id="video-566-1" width="640" height="352" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4?_=1" /><a href="/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4">/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4</a></video></div>
 <p>Still, I think there is an objective case to be made, wholly apart from my own gripes, that “inadequate credit to originators of ideas” (ICOI?) is a legitimate social problem whose solution would materially benefit society. Why? Simply because denying people credit for developing original ideas effectively disincentivizes them from making the effort to develop those ideas, and in that straightforward sense is likely to retard human progress. Obscuring past expressions of an idea also limits new discussions of that idea when they do occur—people are constantly “reinventing the wheel.”</p>
 <p>We acknowledge this logic in other domains of knowledge production. The new ideas of scientists, doctors, English Lit experts, etc. are protected and made accessible by the searchability of their formal papers (via the PubMed system, for example) and the citation custom. New technical ideas also are protected and made accessible by the patent system and its strong judicial backing. Books, musical compositions, movies, TV shows, are protected—albeit weakly—by the copyright system.</p>
 <p>Unfortunately, when it comes to ordinary, non-patentable, non-copyrightable ideas that are published in informal, non-academic fora—ideas such as “women’s mass entry into public life has feminized institutions, culture and policy”—there is no legal protection, and no good and searchable repository. Moreover, the principal search engines for web-based material aren’t really designed to uncover the origins and subsequent iterations of ideas. Mainly because of this, there is only a very weak cultural enforcement of priority claims by idea-originators. I observe anecdotally, for example, that Twitter is full of DIY experts who (from lack of knowledge and/or lack of scruples) recycle others’ ideas, framing their contributions as new, though they are unoriginal and are often incomplete/undeveloped compared to the true original. Thus, the true originators are discouraged by not getting credit, and the false ones lead everyone in circles instead of moving the discussion productively forward.</p>
 <p><strong>Solutions?</strong></p>
 <p>In a broad-brush way, I imagine two complementary solutions to this problem. One is to develop a “registry of ideas.” The other is to develop an “idea history” search engine/bot.</p>
 <p>The registry of ideas could have a broad structure like the “<a href="https://en.wikipedia.org/wiki/Motif-Index_of_Folk-Literature">motif index</a>” developed by the anthropologist Stith Thompson in the 1930s to record and categorize folkloric tales according to their different elements or &#8220;motifs.”</p>
-<p><img decoding="async" loading="lazy" class="wp-image-569 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-scaled.jpg" alt="" width="455" height="736" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-scaled.jpg 1584w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-186x300.jpg 186w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-633x1024.jpg 633w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-768x1241.jpg 768w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-950x1536.jpg 950w, https://thoughtsofstone.github.io/wp-content/uploads/2022/04/motif-index-Copy-2-1267x2048.jpg 1267w" sizes="(max-width: 455px) 85vw, 455px" /></p>
+<p><img decoding="async" class="wp-image-569 aligncenter" src="/wp-content/uploads/2022/04/motif-index-Copy-2-scaled.jpg" alt="" width="455" height="736" srcset="/wp-content/uploads/2022/04/motif-index-Copy-2-scaled.jpg 1584w, /wp-content/uploads/2022/04/motif-index-Copy-2-186x300.jpg 186w, /wp-content/uploads/2022/04/motif-index-Copy-2-633x1024.jpg 633w, /wp-content/uploads/2022/04/motif-index-Copy-2-768x1241.jpg 768w, /wp-content/uploads/2022/04/motif-index-Copy-2-950x1536.jpg 950w, /wp-content/uploads/2022/04/motif-index-Copy-2-1267x2048.jpg 1267w" sizes="(max-width: 455px) 85vw, 455px" /></p>
 <p>The Dewey Decimal System, by which librarians decide where to shelve books, and the aborted Google “<a href="https://dbpedia.org/page/Knol">Knol</a>” project, offer other potentially helpful models of topic-categorization.</p>
 <p>I imagine that some organization like the Wikimedia Foundation (Wikipedia’s parent) could provide some initial structure and guidelines for such a database, after which it would be assembled and curated by volunteers in a highly distributed manner—like Wikipedia. Idea-originators could directly submit their work for recording in the registry, as they can now for appropriate intellectual property with the patent and copyright systems, or they could just let the curators detect their work (assuming it had been published) with their specially designed web bots and other search tools.</p>
 <p>Those tools would be powered by “idea history” search algos, which would parse natural language text to identify ideas being expressed, and categorize them—at least as a “first pass” effort to be checked by human curators of different idea domains, though AI tech may soon be able to handle such tasks on its own.</p>
@@ -189,7 +250,7 @@
 ]]></content:encoded>
 					
 		
-		<enclosure url="https://thoughtsofstone.github.io/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4" length="1281012" type="video/mp4" />
+		<enclosure url="/wp-content/uploads/2022/04/Dustin-Hoffman-And-Robert-De-Niro-Wag-The-Dog-I-Want-The-Credit-2-1-Copy.mp4" length="1281012" type="video/mp4" />
 
 			</item>
 	</channel>

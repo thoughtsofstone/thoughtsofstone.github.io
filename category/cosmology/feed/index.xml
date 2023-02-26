@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cosmology &#8211; Thoughts of Stone</title>
-	<atom:link href="https://thoughtsofstone.github.io/category/cosmology/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io/</link>
+	<atom:link href="/category/cosmology/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Fri, 13 Jan 2023 04:56:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>cosmology &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>THE LAST HISTORY AND THE END OF MAN</title>
-		<link>https://thoughtsofstone.github.io/the-last-history-and-the-end-of-man/</link>
+		<link>/the-last-history-and-the-end-of-man/</link>
 		
 		<dc:creator><![CDATA[j stone]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 04:45:23 +0000</pubDate>
@@ -39,9 +39,9 @@
 		<category><![CDATA[psychology]]></category>
 		<category><![CDATA[science]]></category>
 		<category><![CDATA[technology]]></category>
-		<guid isPermaLink="false">https://thoughtsofstone.github.io/?p=762</guid>
+		<guid isPermaLink="false">/?p=762</guid>
 
-					<description><![CDATA[Why most planetary civilizations collapse &#160; I didn’t get into video games until I was in my 40s. Oddly enough, it was a historian who triggered my interest. Niall Ferguson, the bestselling author, columnist, TV personality and Stanford professor, penned a 2006 New York Magazine piece, “How to Win a War,” that persuasively extolled the &#8230; <a href="https://thoughtsofstone.github.io/the-last-history-and-the-end-of-man/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAST HISTORY AND THE END OF MAN"</span></a>]]></description>
+					<description><![CDATA[Why most planetary civilizations collapse &#160; I didn’t get into video games until I was in my 40s. Oddly enough, it was a historian who triggered my interest. Niall Ferguson, the bestselling author, columnist, TV personality and Stanford professor, penned a 2006 New York Magazine piece, “How to Win a War,” that persuasively extolled the &#8230; <a href="/the-last-history-and-the-end-of-man/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAST HISTORY AND THE END OF MAN"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Why most planetary civilizations collapse</em></p>
 <p><span id="more-762"></span></p>
 <p>&nbsp;</p>
@@ -72,7 +72,7 @@
 <p>All this points to the conclusion that a God of the Universe, if anything like Him exists, has no special interest in humans; and, moreover, that all human “meaning” and “significance” is strictly local—strictly confined to our tiny speck of reality.</p>
 <p style="text-align: center;">*</p>
 <p>Probably like most people who grew up in the latter half of the 20<sup>th</sup> century, I’ve tended to react to these scientific revelations by ignoring them. To the extent that I did think about them, in my younger years, I assumed with vague optimism that humans someday, through better technology, could spread from one star system to another, and so on until they establish their universality, perhaps ultimately melding with whatever force or entity made the universe. I think it’s fair to say that a lot of other people, including prominent advocates of space exploration, still think the same way.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-763" src="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/spacefaring2.jpg" alt="" width="556" height="682" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-763" src="/wp-content/uploads/2023/01/spacefaring2.jpg" alt="" width="556" height="682" /></p>
 <p>I now see such optimism as a form of denial—a denial that is going to be harder and harder to maintain, as time goes on and we humans are increasingly confronted with the nature of our reality.</p>
 <p>How we understand that reality is something that I expect will undergo various elaborations in the coming decades. But it should already be apparent that the idea we could ever “conquer the universe,” or in any way escape the utter insignificance of our existence, is naïve.</p>
 <p>The most obvious (though not even the worst) part of the problem is that the universe is just unmanageably vast: larger than we can ever observe, expanding faster than light, and very likely infinite—which would mean that the human realm or contribution, in relation to the whole, could never be more than infinitesimal. This idea that space is effectively infinite the physicist and cosmology popularizer Brian Greene has <a href="https://www.amazon.com/Hidden-Reality-Parallel-Universes-Cosmos/dp/0307278123">described</a> as “consistent with all observations and . . . part of the cosmological model favored by many physicists and astronomers.”</p>
@@ -91,9 +91,9 @@
 <p>Yet the things we do learn and think about ultimately affect our behavior, if only subconsciously. One doesn’t have to be a philosopher or a psychologist to understand—to take another extreme example—that if we all knew our solar system would be obliterated within a year, making it obvious that our existence was and always had been inconsequential, enough of us would fall into despair that our societies would start to disintegrate immediately.</p>
 <p>I think the reason we’ve largely been able, so far, to resist the toxic implications of modern cosmology is simply that we haven’t been forced to confront them. But that situation is changing.</p>
 <p>When I was growing up in the 1970s and early 80s, cosmology was expansive but still quite tame compared to what was coming. Carl Sagan’s 1980 <em>Cosmos</em> TV series on PBS, for example, was hardly despair-inducing. One could contemplate the large universe depicted by Sagan and other pop cosmologists of the time, and, as I noted above, could still fantasize about humans’ someday traversing and conquering it. MWI and other infinite-universe theories had not yet caught on, certainly not at the popular level.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-764" src="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/sagan-cosmos.jpg" alt="" width="714" height="440" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-764" src="/wp-content/uploads/2023/01/sagan-cosmos.jpg" alt="" width="714" height="440" /></p>
 <p>These days, by contrast, MWI and similar “parallel universe” themes are essential elements of pop cosmology, and, perhaps more importantly, are also common in <a href="https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once">pop culture</a> generally.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-765" src="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/everything-ev.jpg" alt="" width="800" height="399" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2023/01/everything-ev.jpg 800w, https://thoughtsofstone.github.io/wp-content/uploads/2023/01/everything-ev-768x383.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-765" src="/wp-content/uploads/2023/01/everything-ev.jpg" alt="" width="800" height="399" srcset="/wp-content/uploads/2023/01/everything-ev.jpg 800w, /wp-content/uploads/2023/01/everything-ev-768x383.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
 <p>Moreover, although technologies based on quantum mechanics (such as lasers) have been around for decades, newer quantum tech such as quantum computing and quantum encryption emphasizes, for the first time, the spookier, multiplicity-of-states aspect of quantum mechanics—the aspect that MWI essentially was devised to explain. Thus, from popular science to tech to popular media culture generally, people are being exposed to the infinite-universe/multiverse idea as never before, and in ever-stronger doses.</p>
 <p>The impact of that rising exposure won’t be immediately obvious. There are, and in the coming decades will continue to be, many other drivers of despair, disruption, suicide, and social disintegration in the modern world—drivers such as <a href="https://thoughtsofstone.github.io/cultural-feminization-an-introduction/">cultural feminization</a>, mass immigration, and <a href="https://thoughtsofstone.github.io/the-ouroboros-economy/">human-displacing AI systems</a>. Trying to disentangle the effect of one of these from the others is going to be challenging, to put it mildly. But, if my hypothesis is correct, “cosmological despair” will weigh more and more heavily and evidently on developed societies—especially among younger people, who will encounter MWI and similarly harsh cosmologies in their formative years, never having had the comforts of older, friendlier worldviews. In other words, if the world is now entering an Age of Despair principally for other reasons, cosmology will keep it there terminally.</p>
 <p style="text-align: center;">*</p>

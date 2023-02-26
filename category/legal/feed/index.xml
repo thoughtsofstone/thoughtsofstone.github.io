@@ -9,8 +9,8 @@
 
 <channel>
 	<title>legal &#8211; Thoughts of Stone</title>
-	<atom:link href="https://thoughtsofstone.github.io/category/legal/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thoughtsofstone.github.io/</link>
+	<atom:link href="/category/legal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>short essays, usually about humans</description>
 	<lastBuildDate>Sat, 22 Oct 2022 21:33:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://thoughtsofstone.github.io/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
+	<url>/wp-content/uploads/2020/07/cropped-icon-32x32.jpg</url>
 	<title>legal &#8211; Thoughts of Stone</title>
-	<link>https://thoughtsofstone.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>THE LAW EMPINKENED</title>
-		<link>https://thoughtsofstone.github.io/the-law-empinkened/</link>
+		<link>/the-law-empinkened/</link>
 		
 		<dc:creator><![CDATA[j stone]]></dc:creator>
 		<pubDate>Sun, 09 Jan 2022 04:30:46 +0000</pubDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[women]]></category>
 		<guid isPermaLink="false">http://box5257.temp.domains/~houghty5/?p=385</guid>
 
-					<description><![CDATA[Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system. &#160; Every day, on Twitter and a thousand other media and social-media forums, Americans of a “conservative” or “right-wing” persuasion bemoan and lament the civilizational destruction caused by the crazed, bureaucrat-and-brownshirt armies of wokeness. I bemoan and lament with &#8230; <a href="https://thoughtsofstone.github.io/the-law-empinkened/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAW EMPINKENED"</span></a>]]></description>
+					<description><![CDATA[Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system. &#160; Every day, on Twitter and a thousand other media and social-media forums, Americans of a “conservative” or “right-wing” persuasion bemoan and lament the civilizational destruction caused by the crazed, bureaucrat-and-brownshirt armies of wokeness. I bemoan and lament with &#8230; <a href="/the-law-empinkened/" class="more-link">Continue reading<span class="screen-reader-text"> "THE LAW EMPINKENED"</span></a>]]></description>
 										<content:encoded><![CDATA[<p><em>Giuffre v. Prince Andrew&#8212;yet another egregious example of how wokeism is destroying the US legal system.</em></p>
 <p><span id="more-385"></span></p>
 <p>&nbsp;</p>
@@ -48,13 +48,13 @@
 <p>I bemoan and lament with them. But what distresses me even more is the destruction—serious destruction—caused by trends that ordinary people on the right <em>approve</em> or at least choose to keep silent about.</p>
 <p>One of these trends concerns some of the criminal and civil cases inspired by the <em>#MeToo</em> movement—cases that represent the anti-male, <a href="https://thoughtsofstone.github.io/girl-power/">pro-histrionic-female</a> theme in the broad wokeist takeover of the American judicial system. (Another prominent theme in that takeover, the <a href="https://thoughtsofstone.github.io/an-abandoned-and-malignant-heart/">anti-white-law-abiding-citizen, pro-black-felon theme</a>, I wrote about just over a month ago.)</p>
 <p>A particularly striking <em>#MeToo</em> case, still in its early stages but already with prominent media coverage, lies before us now.</p>
-<p><img decoding="async" loading="lazy" class="size-full wp-image-386 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy1.jpg" alt="" width="672" height="669" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy1.jpg 672w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy1-300x300.jpg 300w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy1-150x150.jpg 150w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
-<p><img decoding="async" loading="lazy" class="size-full wp-image-387 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy2.jpg" alt="" width="600" height="530" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy2.jpg 600w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy2-300x265.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
-<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-390" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy3.jpg" alt="" width="803" height="219" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy3.jpg 803w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy3-300x82.jpg 300w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/andy3-768x209.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img decoding="async" class="size-full wp-image-386 aligncenter" src="/wp-content/uploads/2022/01/andy1.jpg" alt="" width="672" height="669" srcset="/wp-content/uploads/2022/01/andy1.jpg 672w, /wp-content/uploads/2022/01/andy1-300x300.jpg 300w, /wp-content/uploads/2022/01/andy1-150x150.jpg 150w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img decoding="async" class="size-full wp-image-387 aligncenter" src="/wp-content/uploads/2022/01/andy2.jpg" alt="" width="600" height="530" srcset="/wp-content/uploads/2022/01/andy2.jpg 600w, /wp-content/uploads/2022/01/andy2-300x265.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img decoding="async" class="alignnone size-full wp-image-390" src="/wp-content/uploads/2022/01/andy3.jpg" alt="" width="803" height="219" srcset="/wp-content/uploads/2022/01/andy3.jpg 803w, /wp-content/uploads/2022/01/andy3-300x82.jpg 300w, /wp-content/uploads/2022/01/andy3-768x209.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
 <p>This is the case brought by Virginia Roberts Giuffre, the most media-noisy of the sex kittens paid and kept by the late Jeffrey Epstein. She claims that—more than two decades ago, when she was just 17—she slept with the British royal Prince Andrew, and suffered so much harm thereby that she is now entitled to significant monetary damages. According to the complaint filed by her lawyers:</p>
 <p style="padding-left: 40px;">Prince Andrew committed sexual assault and battery upon Plaintiff when she was 17 years old. As such, Prince Andrew is responsible for battery and intentional infliction of emotional distress pursuant to New York common law. The damage to Plaintiff has been severe and lasting . . . .</p>
 <p style="padding-left: 40px;">The below photograph depicts Prince Andrew, Plaintiff, and Maxwell at Maxwell’s home prior to Prince Andrew sexually abusing Plaintiff.</p>
-<p><img decoding="async" loading="lazy" class=" wp-image-388 aligncenter" src="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/giuff-Copy.jpg" alt="" width="473" height="284" srcset="https://thoughtsofstone.github.io/wp-content/uploads/2022/01/giuff-Copy.jpg 930w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/giuff-Copy-300x180.jpg 300w, https://thoughtsofstone.github.io/wp-content/uploads/2022/01/giuff-Copy-768x461.jpg 768w" sizes="(max-width: 473px) 85vw, 473px" /></p>
+<p><img decoding="async" class=" wp-image-388 aligncenter" src="/wp-content/uploads/2022/01/giuff-Copy.jpg" alt="" width="473" height="284" srcset="/wp-content/uploads/2022/01/giuff-Copy.jpg 930w, /wp-content/uploads/2022/01/giuff-Copy-300x180.jpg 300w, /wp-content/uploads/2022/01/giuff-Copy-768x461.jpg 768w" sizes="(max-width: 473px) 85vw, 473px" /></p>
 <p>The reader is free to peruse the full complaint [<a href="https://www.courthousenews.com/wp-content/uploads/2021/08/Prince-Phillip-sexual-assault-lawsuit.pdf">pdf</a>], to follow the case as it progresses, and to make judgments accordingly. I offer here, as a mere bystander who knows none of the parties, only my own humble, hushed opinions.</p>
 <p>Which is to say, I think it’s a shameless fraud that demonstrates the shambles of the American legal system under the pressures of wokeist <a href="https://thoughtsofstone.github.io/the-great-feminization/">feminization</a>.</p>
 <p>Worse, I think it puts on full display America&#8217;s cultural corruption&#8212;for no media commentator of prominence, as far as I know, has offered even mild skepticism about this outrageous case or others like it.</p>
