@@ -12,7 +12,7 @@
 	<atom:link href="/category/technology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>short essays, usually about humans</description>
-	<lastBuildDate>Sun, 26 Feb 2023 08:23:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Mar 2023 00:47:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FROM TECH FREEDOM TO WORLD GOVERNMENT</title>
+		<link>/from-tech-freedom-to-world-government/</link>
+		
+		<dc:creator><![CDATA[j stone]]></dc:creator>
+		<pubDate>Sun, 05 Mar 2023 00:40:38 +0000</pubDate>
+				<category><![CDATA[A.I.]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=788</guid>
+
+					<description><![CDATA[Further notes on the “unaligned A.I.” problem &#160; A lot of dust is now being raised by media hype and corporate positioning about A.I.—similar to what we saw in the early days of the Internet. Behind all the dust clouds, though, there’s an active debate among techies and tech-adjacent types about the “A.I. apocalypse” that &#8230; <a href="/from-tech-freedom-to-world-government/" class="more-link">Continue reading<span class="screen-reader-text"> "FROM TECH FREEDOM TO WORLD GOVERNMENT"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><em>Further notes on the “unaligned A.I.” problem</em></p>
+<p><span id="more-788"></span></p>
+<p>&nbsp;</p>
+<p>A lot of dust is now being raised by media hype and corporate positioning about A.I.—similar to what we saw in the early days of the Internet. Behind all the dust clouds, though, there’s an active debate among techies and tech-adjacent types about the “A.I. apocalypse” that may lie in our future.</p>
+<p>My <a href="/yudkowskys-golem/">previous post</a> has more details, but anyway I’m referring to a future in which A.I. systems will be significantly more powerful than they are today—maybe capable of running entire industries, maybe capable of running everything. While these systems could displace most/all humans from the production side of the economy, they could also drive the costs of goods and services so low that anyone, on the strength of savings or a state subsidy, could live a comfortable life. (In other words, the “paradise” depicted in films like <em>Wall-E</em>.) One catch is that these A.I. systems, if built with the same machine-learning design approaches used in modern ChatGPT-type systems, effectively will be advanced non-human intelligences with opaque cognitive processes. It might be as hard, or even harder, to train them to “align” their values with human values as it is now with much more primitive systems. That’s a problem because an <em>unaligned</em> A.I. is one that plausibly would have no compunction about doing away with humans—just as soon as it could <a href="/yudkowskys-golem/">survive without them</a>.</p>
+<p><iframe title="159 - We’re All Gonna Die with Eliezer Yudkowsky" src="https://www.youtube.com/embed/gA1sNLL6yg4" width="800" height="550" frameborder="0" allowfullscreen="allowfullscreen"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>We already know that current AIs are capable of pretty <a href="https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/">weird and unfriendly</a> behavior. We know their mindset is inhuman and inherently difficult to train to do useful things while also obeying moral rules. We know we have no robust, foolproof way to instill a “do not harm people” principle in them. It really is believable that one or more of them, when cognitively scaled up and given the opportunity, would try to exterminate some or all of us, as casually as you or I would spray Raid on some ants we had found in the kitchen.</p>
+<p>Many A.I. and “A.I. ethics” experts are thinking about this problem now. At least one prominent researcher, Eliezer Yudkowsky, has rather emotionally thrown his hands up in despair (see video above). He will keep thinking about the alignment problem, he says, but for now has no good solution—and worse, has no confidence in the folks that currently control A.I. research.</p>
+<p>My own view, fwiw (I’m not an A.I. expert though I have a technical background), is that the A.I. alignment problem <em>isn’t</em> the main problem here.</p>
+<p>Alignment <em>should</em> be a soluble technical problem for an A.I. system if its architecture is designed with the need for alignment in mind. A key goal of this design approach would be to ensure that the A.I.’s motives and specific plans are always transparent. It’s like putting a speed governor on a car’s drive system—a relatively straightforward task, if you have a real-time readout from an accurate speedometer.</p>
+<p>There is a deeper problem, though—a deeper problem that is also a general problem in societies that believe their cultures and technologies should be free to evolve where they will. Put simply, although many technologies have potentially hazardous side-effects, in Western societies hardly any of them are regulated so strongly that their hazards are effectively mitigated in every instance of the technology.</p>
+<p>In the case of A.I., it should be technically possible, maybe even easy, to align <em>a given system </em>with training/hard-coding, assuming it has the right architecture. Enforcing the alignment of <em>every</em> A.I. system that presents a potential hazard, in order to cut the risk to zero, would be the real challenge. Even domestic enforcement would be tough, but international enforcement—against bad-actor states like Russia, China, and North Korea—could be impossible without war-like cross-border interventions. And, again, we’re not talking about a technical issue of A.I. design. We’re talking about the geopolitical issue of being able to control, regulate, and, if needed, destroy other countries’ A.I.s.</p>
+<p>It’s easy to imagine that as A.I. develops in Western countries, domestic regulatory regimes will develop around it, perhaps modeled on existing regulatory systems covering nuclear reactors and the plutonium and other radioactive byproducts they generate. (The antiterrorism model is probably also applicable.) For the regulation of “foreign A.I.s,” the system will probably resemble the modern arms control and anti-proliferation setup.</p>
+<p>Modern arms control and antiproliferation efforts, so far, have been moderately successful in keeping nukes out of the hands of crazy states. Obviously, they have not been <em>entirely</em> successful: see Iran, Pakistan, N. Korea. Moreover, A.I. could be a lot harder to regulate than nuclear weapons. Nukes require very special materials and engineering knowledge. By contrast, even a future superintelligent A.I., in principle, might be able to use consumer-grade hardware that any moderately wealthy Dr. No type could obtain from Amazon.com and assemble undetectably on private property. Most importantly, the hazard from any instance of an advanced A.I. is potentially infinite from the human perspective, whereas the hazard from any single nuclear weapon (or even all of them) is much more limited.</p>
+<p>So a plausible scenario is that Western and Western-allied governments will set up A.I. regulatory systems domestically, and, to the extent they can, a regulatory/antiproliferation system abroad. Presumably they will also take steps to counter or survive against specific WMD threats from A.I.s gone bad—threats that could really run the gamut of nightmares, including totally novel pathogens with human-exterminating potential. Despite all this effort, though, it seems unlikely that “the good guys” will be able to mitigate the risk sufficiently within the system of nations that now exists.</p>
+<p>On the other hand, as the awareness of the risk grows (possibly due to actual disasters), it should push Western governments to work together more and more tightly, to do whatever they can to extend A.I. regulation—<em>coercively,</em> if necessary—to non-compliant individuals and organizations in the West, and to entire non-compliant countries outside the West. If the risk is as big, and as hard-to-mitigate, as I suspect, then the end result could be effectively a single, highly intrusive, all-surveilling World Government. Obviously, the risks from other hazardous techs will tend to drive things in the same direction. Even if the geopolitical changes don’t run all the way to that drastic outcome, people ultimately will be forced to recognize that the West’s naïve belief in “freedom” was always going to lead it towards a Leviathan-like unfree state.</p>
+<p style="text-align: center;">***</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>YUDKOWSKY&#8217;S GOLEM</title>
 		<link>/yudkowskys-golem/</link>
 		
